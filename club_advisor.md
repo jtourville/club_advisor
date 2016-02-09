@@ -1,4 +1,6 @@
-It's your first day at the links!
+Hello from git tracked file!
+
+
 In the great game of golf, you must be careful to select the right club based on the distance you are from the hole.
 
 Your golf coach has given you the following table,
