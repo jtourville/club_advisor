@@ -17,7 +17,7 @@ putter: 0,
 }
 
 
-puts "How many yards are you from the hole?"
+# puts "How many yards are you from the hole?"
 
 user_distance = gets.chomp.to_i
 
@@ -28,5 +28,3 @@ clubs_max_distance.each do |club, distance|
     break
   end
 end
-
-
